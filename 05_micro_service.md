@@ -4,8 +4,8 @@
 
 早期的SOA架构爱好者会考虑建立复杂的基础设施，然而传统的ESB等等东西都太重，现在更接地气的做法就是基于REST风格输出服务能力，最后得到一个用http扭结在一起的整体系统，并使用消息队列处理异步化问题，一般的系统大致也就是这样了。
 
-有条推是这么解释微服务的，很有趣：
-> @arungupta Microservices = SOA -ESB -SOAP -Centralized governance/persistence -Vendors +REST/HTTP +CI/CD +DevOps +True Polyglot +Containers +PaaS
+> 有条推是这么解释微服务的，很有趣：
+> > @arungupta Microservices = SOA -ESB -SOAP -Centralized governance/persistence -Vendors +REST/HTTP +CI/CD +DevOps +True Polyglot +Containers +PaaS
 
 那么，对微服务来说，Docker又意味着什么？这两种技术之间应该是什么关系呢？
 我认为，Docker和微服务的关系应该是——好基友 :-) ，且容慢慢道来。
