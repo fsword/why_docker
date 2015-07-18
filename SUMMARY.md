@@ -7,4 +7,3 @@
 * [微服务](05_micro_service.md)
 * [技术的价值](06_value_of_tech.md)
 * [组织变革](07_org_rework.md)
-
